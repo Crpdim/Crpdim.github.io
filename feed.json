@@ -7,6 +7,17 @@
     "home_page_url": "https://crpdim.github.io",
     "items": [
         {
+            "id": "https://crpdim.github.io/english/pyqt5_m1/",
+            "url": "https://crpdim.github.io/english/pyqt5_m1/",
+            "title": "动词语气",
+            "date_published": "2023-04-12T12:46:25.000Z",
+            "content_html": "<h1 id=\"语气\"><a class=\"anchor\" href=\"#语气\">#</a> 语气</h1>\n<h1 id=\"动词语气mood\"><a class=\"anchor\" href=\"#动词语气mood\">#</a> 动词语气（Mood）</h1>\n<blockquote>\n<p>动词语气 <strong>≠</strong> 说话语气<span class=\"spoiler\" title=\"好奇心害死猫\">温柔的、凶狠的……</span></p>\n<p>动词最主要的语气：陈述语气、祈使语气、虚拟语气）</p>\n</blockquote>\n<h2 id=\"谓语动词三大本领\"><a class=\"anchor\" href=\"#谓语动词三大本领\">#</a> 谓语动词三大本领</h2>\n<ul>\n<li>表示动作的时间（Tense）</li>\n<li>表示动作的状态（Aspect）</li>\n<li>表示动作的假设与情感（Mood）</li>\n</ul>\n<h2 id=\"陈述语气\"><a class=\"anchor\" href=\"#陈述语气\">#</a> 陈述语气</h2>\n<blockquote>\n<p>描述现实</p>\n</blockquote>\n<p>例如：</p>\n<p>| The rabbit ate the carrot. | 这兔子吃了这胡萝卜。|</p>\n<p>| Did the rabbit ate the carrot? | 兔子吃了这胡萝卜吗？|</p>\n<h2 id=\"祈使语气\"><a class=\"anchor\" href=\"#祈使语气\">#</a> 祈使语气</h2>\n<blockquote>\n<p>表示命令请求</p>\n</blockquote>\n<h3 id=\"例如\"><a class=\"anchor\" href=\"#例如\">#</a> 例如：</h3>\n<p>| Rabbit, eat the carrot! | 兔子，吃了这胡萝卜！|</p>\n<p>| Please, give me an apple! | 求你了，给我个苹果！ |</p>\n<h3 id=\"语法构成\"><a class=\"anchor\" href=\"#语法构成\">#</a> 语法构成：</h3>\n<ol>\n<li>用第二人称 “<span class=\"spoiler\" title=\"好奇心害死猫\">你</span>” 用一般现在时态表达</li>\n<li>去掉 “你”，并保证动词原形</li>\n<li>如： You eat the carrot! -&gt; Eat the carrot!</li>\n</ol>\n<h2 id=\"虚拟语气subjunctive-mood\"><a class=\"anchor\" href=\"#虚拟语气subjunctive-mood\">#</a> 虚拟语气（Subjunctive Mood）</h2>\n<blockquote>\n<p>描述脑中的想象（尤其是和现实想违背）或主观的意愿要用虚拟语气</p>\n</blockquote>\n<h3 id=\"用法1表示与现在事实相反\"><a class=\"anchor\" href=\"#用法1表示与现在事实相反\">#</a> 用法 1：表示与现在事实相反</h3>\n<p>| If I saw the rabbit now, I would bite him. | 如果我现在看到这只兔子，我将会咬它 |<br />\n<span class=\"spoiler\" title=\"好奇心害死猫\"> 这里的过去式不是指过去，而是指现在没发生但希望发生的动作</span></p>\n<h4 id=\"结构\"><a class=\"anchor\" href=\"#结构\">#</a> 结构</h4>\n<ul>\n<li>条件句：过去式</li>\n<li>主句：would + 动词原形</li>\n</ul>\n",
+            "tags": [
+                "英语学习",
+                "英语语法"
+            ]
+        },
+        {
             "id": "https://crpdim.github.io/ai/machine-learning/machine_course02/",
             "url": "https://crpdim.github.io/ai/machine-learning/machine_course02/",
             "title": "机器学习课程02-浅谈机器学习原理",
