@@ -10,17 +10,297 @@
         </author>
         <description>A good boy!</description>
         <language>zh-CN</language>
-        <pubDate>Tue, 11 Apr 2023 20:46:25 +0800</pubDate>
-        <lastBuildDate>Tue, 11 Apr 2023 20:46:25 +0800</lastBuildDate>
+        <pubDate>Fri, 14 Apr 2023 20:46:25 +0800</pubDate>
+        <lastBuildDate>Fri, 14 Apr 2023 20:46:25 +0800</lastBuildDate>
         <category term="吼吼吼" />
         <item>
-            <guid isPermalink="true">https://crpdim.github.io/english/pyqt5_m1/</guid>
+            <guid isPermalink="true">https://crpdim.github.io/english/Non-Finite-Verbs-02/</guid>
+            <title>非谓语动词02</title>
+            <link>https://crpdim.github.io/english/Non-Finite-Verbs-02/</link>
+            <category term="英语学习" scheme="https://crpdim.github.io/categories/english/" />
+            <category term="英语语法" scheme="https://crpdim.github.io/tags/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/" />
+            <pubDate>Fri, 14 Apr 2023 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;动名词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动名词&#34;&gt;#&lt;/a&gt; 动&lt;mark&gt;名词&lt;/mark&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;动名词相当于名词&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;动名词作主语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动名词作主语&#34;&gt;#&lt;/a&gt; 动名词作主语&lt;/h2&gt;
+&lt;p&gt;&lt;mark&gt;Eating carrots&lt;/mark&gt; is healthy for the rabbit.&lt;/p&gt;
+&lt;p&gt;在这句话中，eating carrot 是一个动名词短语，将动词 eat 转换成了名词的性质，表达吃胡萝卜这个行为。&lt;/p&gt;
+&lt;h2 id=&#34;动名词作主语补语表语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动名词作主语补语表语&#34;&gt;#&lt;/a&gt; 动名词作主语补语（表语）&lt;/h2&gt;
+&lt;p&gt;The rabbit&#39;s hobby is &lt;mark&gt;growing carrots.&lt;/mark&gt;  兔子的爱好是种胡萝卜。&lt;/p&gt;
+&lt;p&gt;动名词短语 growing carrots 作句子的表语&lt;/p&gt;
+&lt;p&gt;&lt;ins&gt;Seeing&lt;/ins&gt; is &lt;mark&gt;believing&lt;/mark&gt;. 眼见为实&lt;/p&gt;
+&lt;p&gt;这句谚语中动名词 seeing 作主语， 动名词 believing 作表语。&lt;/p&gt;
+&lt;h2 id=&#34;动名词作定语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动名词作定语&#34;&gt;#&lt;/a&gt; 动名词作定语&lt;/h2&gt;
+&lt;p&gt;A &lt;mark&gt;sleeping&lt;/mark&gt; pill。一片安眠药&lt;/p&gt;
+&lt;p&gt;这里的 sleeping 作 pill 的定语，说明 pill 的用途（睡眠用的）&lt;/p&gt;
+&lt;p&gt;所以 a &lt;mark&gt;sleeping&lt;/mark&gt; pill = a pill for &lt;mark&gt;sleeping&lt;/mark&gt;。&lt;/p&gt;
+&lt;div class=&#34;note danger&#34;&gt;
+&lt;p&gt;&lt;span class=&#34;label danger&#34;&gt;💔danger&lt;/span&gt;  这里的 sleeping 都是当名词使用，并非在说 pill 在睡觉。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;动名词作宾语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动名词作宾语&#34;&gt;#&lt;/a&gt; 动名词作宾语&lt;/h2&gt;
+&lt;p&gt;The rabbit likes &lt;mark&gt;eating&lt;/mark&gt; carrots. 兔子喜欢吃胡萝卜。&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;用不定式作宾语可以写成 The rabbit likes to eat carrots. 意思也是兔子喜欢吃胡萝卜，这两种形式有什么区别呢？&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;&amp;quot;like to do vs like doing&amp;quot; 这个我也没能理解，不同动词不定式与动名词区别不同，有的动词区别就很明显，如：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The rabbit stopped to eat a carrot. 表示兔子停下（手里的活）去吃一个胡萝卜&lt;/li&gt;
+&lt;li&gt;The rabbit stopped eating a carrot.  兔子停止吃一根胡萝卜&lt;/li&gt;
+&lt;li&gt;forget doing sth. 忘记做过的事情&lt;/li&gt;
+&lt;li&gt;forget to do sth. 忘记要做的事情&lt;/li&gt;
+&lt;li&gt;remember doing sth. 想起做过的事情&lt;/li&gt;
+&lt;li&gt;remember to do sth. 想起要做的事情&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;但是对于某些动词后，如 enjoy，就不能用不定式作宾语。&lt;/p&gt;
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_0&#34;&gt; &lt;s&gt;The rabbit enjoys to eat carrots.&lt;/s&gt;&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_1&#34;&gt; 必须写成 The rabbit enjoys eating carrots.&lt;/label&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这样的动词还有 avoid, advise, consider, escape, mind, practice 等，动词词组有 insist on, give up, feel like, put off 等.&lt;/p&gt;
+&lt;p&gt;有时介词后面也接宾语，此时要将动词变为非谓语动词，也要使用动名词形式&lt;/p&gt;
+&lt;p&gt;有时还会遇到 to 作为介词的词组，注意不要将它看作不定式。如：&lt;/p&gt;
+&lt;p&gt;The rabbit is looking forward to &lt;mark&gt;seeing&lt;/mark&gt; the wolf. 兔子期待再次见到狼。&lt;/p&gt;
+&lt;p&gt;在这一句中，look forward to 是一个动词短语，to 是个介词&lt;/p&gt;
+&lt;h1 id=&#34;现在分词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在分词&#34;&gt;#&lt;/a&gt; 现在分词&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;现在分词并不表示现在时间&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A &lt;mark&gt;talking&lt;/mark&gt; rabbit  一只会说话的兔子&lt;/p&gt;
+&lt;p&gt;这里 talking 是现在分词作定语&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;但是之前有说过动名词也可以作定语，如a sleeping pill，怎么判断是动名词还是现在分词呢&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;a &lt;ins&gt;sleeping&lt;/ins&gt; pill 这里 sleeping 是动名词，用来说明 pill 的性质、功能和用途，相当于 a pill for sleeping&lt;/p&gt;
+&lt;p&gt;a &lt;mark&gt;sleeping&lt;/mark&gt; rabbit 这里的 sleeping 表示这是只在睡觉的兔子，不是名词而是充当形容词，表示兔子的状态&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;现在分词作表语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在分词作表语&#34;&gt;#&lt;/a&gt; 现在分词作表语&lt;/h2&gt;
+&lt;p&gt;The rabbit is &lt;mark&gt;charming&lt;/mark&gt;.&lt;/p&gt;
+&lt;p&gt;The game is &lt;mark&gt;exciting&lt;/mark&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;现在分词作宾语补足语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在分词作宾语补足语&#34;&gt;#&lt;/a&gt; 现在分词作宾语补足语&lt;/h2&gt;
+&lt;p&gt;The wolf saw the rabbit &lt;mark&gt;eating&lt;/mark&gt; a carrot. 狼之前看到兔子正在吃胡萝卜。&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;不定式作宾语补语的用法&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;The wolf saw the rabbit &lt;ins&gt;eat&lt;/ins&gt; a carrot. 狼之前看到兔子吃了根胡萝卜。&lt;/p&gt;
+&lt;p&gt;不定式与现在分词作宾语的区别：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不定式作宾语，表示动作自始至终的过程，强调动作已经发生了。&lt;/li&gt;
+&lt;li&gt;现在分词作宾语，表示动作正在进行中，强调进行的状态。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;现在分词作状语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#现在分词作状语&#34;&gt;#&lt;/a&gt; 现在分词作状语&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;表示时间、原因、条件、结果、让步、目的、方式和伴随情况等&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;表时间： Hearing the news, the rabbit became excited. 听到这个消息，兔子变得很激动&lt;/li&gt;
+&lt;li&gt;表原因：Not knowing what to eat, the rabbit skipped lunch. 不知道吃什么，兔子没吃中饭。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;过去分词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去分词&#34;&gt;#&lt;/a&gt; 过去分词&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;过去分词并不表示过去的时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The rabbit will eat &lt;mark&gt;minced&lt;/mark&gt; carrot next week. 兔子下周会吃被搅碎的胡萝卜&lt;/p&gt;
+&lt;p&gt;之句话中，minced 不带时间概念，只是指被搅碎这个状态&lt;/p&gt;
+&lt;p&gt;常见过去分词为动词 + ed，也有很多不常见的需要积累&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;动词原形&lt;/th&gt;
+&lt;th&gt;过去分词形式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;eat&lt;/td&gt;
+&lt;td&gt;eaten&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;see&lt;/td&gt;
+&lt;td&gt;seen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cut&lt;/td&gt;
+&lt;td&gt;cut&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;grow&lt;/td&gt;
+&lt;td&gt;grown&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tell&lt;/td&gt;
+&lt;td&gt;told&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;上述例句中 minced 为过去分词作定语，一般在修饰的名词前，但是过去分词短语作定语则需要放在被修饰的名词之后，作后置定语：&lt;/p&gt;
+&lt;p&gt;The carrot cake &lt;mark&gt;eaten&lt;/mark&gt; by the rabbit is delicious.&lt;/p&gt;
+&lt;h2 id=&#34;过去分词作主语补语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去分词作主语补语&#34;&gt;#&lt;/a&gt; 过去分词作主语补语&lt;/h2&gt;
+&lt;p&gt;The rabbit is &lt;mark&gt;interested&lt;/mark&gt; in growing carrots. 兔子对种胡萝卜感兴趣。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;&amp;quot;sb. is interested in doing sth&amp;quot; 就是过去分词”interested“作表语的主系表结构&lt;/span&gt;&lt;/p&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;过去分词作表语vs现在分词作表语&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;The story is &lt;mark&gt;interesting&lt;/mark&gt;. 故事很有趣（主动）&lt;/li&gt;
+&lt;li&gt;The rabbit is &lt;mark&gt;interested&lt;/mark&gt;. 兔子很有兴趣（被动）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;现在分词暗含主动关系，描述做出动作的人或物&lt;/p&gt;
+&lt;p&gt;过去分词暗含被动关系，描述动作的接收者&lt;/p&gt;
+&lt;ol&gt;
+&lt;li class=&#34;quiz&#34;&gt;下列哪一个表示兔子害怕&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;The rabbit was &lt;mark&gt;frightening&lt;/mark&gt;. &lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;兔子令人感到害怕&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;The rabbit was &lt;mark&gt;frightened&lt;/mark&gt;.{.correct}{.options}  &lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;兔子感到害怕&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I am interesting and interested. &lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;我既有趣又有兴趣&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;过去分词作宾语补语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去分词作宾语补语&#34;&gt;#&lt;/a&gt; 过去分词作宾语补语&lt;/h2&gt;
+&lt;p&gt;The rabbit found his carrot &lt;mark&gt;stolen&lt;/mark&gt;. 兔子发现他的胡萝卜被偷了&lt;/p&gt;
+&lt;h2 id=&#34;过去分词作状语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#过去分词作状语&#34;&gt;#&lt;/a&gt; 过去分词作状语&lt;/h2&gt;
+&lt;p&gt;&lt;mark&gt;Seen&lt;/mark&gt; from the hill, the carrot field looks beautiful. 从山上看，胡萝卜田看上去很美&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;Born&lt;/mark&gt; in a rabbit family, the rabbit has been growing carrots all his life. 由于出生在一个兔子家庭中，兔子种了一辈子的胡萝卜&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;Given&lt;/mark&gt; another chance, the rabbit would go to the wolf&#39;s party. 如果再给兔子一次机会，它会参加狼的聚会。&lt;/p&gt;
+&lt;p&gt;如何确定是现在分词还是过去分词呢？为什么第一句不能写成 &lt;s&gt;&lt;mark&gt;Seeing&lt;/mark&gt; from the hill, the carrot field looks beautiful&lt;/s&gt;？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主动和被动主要看非谓语动词与主语的关系，这句话中动作 see 与主语 carrot field 是&lt;ins&gt;被动&lt;/ins&gt;关系，萝卜田是被看到&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Seeing&lt;/mark&gt; the carrot field, the rabbit ran towards it. 这里主语是 rabbit，动作 see 是&lt;ins&gt;主动&lt;/ins&gt;去看&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;一个高级用法&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;The work &lt;mark&gt;finished&lt;/mark&gt;, the rabbit went home. 工作完成后，兔子回家了。&lt;/p&gt;
+&lt;p&gt;为什么不是兔子主动做工作？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;因为 finished 不是说兔子，而是说 work&lt;/li&gt;
+&lt;li&gt;这句话相当于一个并列句：The work was finished, so the rabbit went home.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The weather &lt;mark&gt;permitting&lt;/mark&gt;, the rabbit will go out. 天气允许的话，兔子就出门了。&lt;/p&gt;
+&lt;p&gt;相当于 If the weather permits, the rabbit will go out. weather 为现在分词形式，修饰 weather。&lt;/p&gt;
+&lt;p&gt;这种结构（一个简单句，除去谓语动词外，其他的动词转化为对应的现在 / 过去分词形式）语法上称之为&lt;ins&gt;独立主格&lt;/ins&gt;。&lt;/p&gt;
+&lt;p&gt;因为现在 / 过去分词在句子中的状语里（并非主语），在状语本身中，分词修饰的对象（例句中的 work、weather）隐含了一层主语的意味（只有意味，相当于状语从句中的主语，并非整句的主语）&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://crpdim.github.io/english/Non-Finite-Verbs/</guid>
+            <title>非谓语动词(The Non-Finite Verbs)</title>
+            <link>https://crpdim.github.io/english/Non-Finite-Verbs/</link>
+            <category term="英语学习" scheme="https://crpdim.github.io/categories/english/" />
+            <category term="英语语法" scheme="https://crpdim.github.io/tags/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/" />
+            <pubDate>Wed, 12 Apr 2023 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;非谓语动词01&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非谓语动词01&#34;&gt;#&lt;/a&gt; 非谓语动词 01&lt;/h1&gt;
+&lt;h2 id=&#34;谓语动词vs非谓语动词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谓语动词vs非谓语动词&#34;&gt;#&lt;/a&gt; 谓语动词 vs 非谓语动词&lt;/h2&gt;
+&lt;h3 id=&#34;谓语动词的三大本领&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谓语动词的三大本领&#34;&gt;#&lt;/a&gt; 谓语动词的 “三大本领”&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;表示动作的时间&lt;/li&gt;
+&lt;li&gt;表示动作的状态&lt;/li&gt;
+&lt;li&gt;表示动作的假设、情感（语气）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;谓语动词可以受到主语限制，出现了时间、状态、语气的变化，实际上是一种被限定的动词。所以又称为限定性动词（Finite Verbs）&lt;/p&gt;
+&lt;p&gt;如句子： The rabbit eats a carrot. 如果将主语 The rabbit 换成 I ，则 eats 需变为 eat&lt;/p&gt;
+&lt;h3 id=&#34;不受限定的动词非谓语动词the-non-finite-verbs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不受限定的动词非谓语动词the-non-finite-verbs&#34;&gt;#&lt;/a&gt; 不受限定的动词 —— 非谓语动词（The Non-Finite Verbs）&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不受主语限制、不受限定的词，因此非谓语动词无法表达时间和人称&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;例句：（&lt;mark&gt;荧光绿&lt;/mark&gt;为谓语动词， &lt;ins&gt;下划线&lt;/ins&gt;为非谓语动词）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I &lt;mark&gt;like&lt;/mark&gt; &lt;ins&gt;to eat&lt;/ins&gt; carrots.&lt;/li&gt;
+&lt;li&gt;I &lt;mark&gt;liked&lt;/mark&gt; &lt;ins&gt;eating&lt;/ins&gt; carrots&lt;/li&gt;
+&lt;li&gt;I &lt;mark&gt;am&lt;/mark&gt; a &lt;ins&gt;talking&lt;/ins&gt; rabbit.&lt;/li&gt;
+&lt;li&gt;The rabbit &lt;mark&gt;likes&lt;/mark&gt; &lt;ins&gt;minced&lt;/ins&gt; carrots.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;可见，谓语动词受主语限制，展现出时间、状态和语气的本领；非谓语动词不受主语限制，不具备表达时间和状态的能力&lt;/p&gt;
+&lt;h3 id=&#34;谓语动词与非谓语动词区别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#谓语动词与非谓语动词区别&#34;&gt;#&lt;/a&gt; 谓语动词与非谓语动词区别&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个简单句的句子成分：什么（主语）怎么样（谓语），一个简单句中只能有一个体现怎么样的谓语动词；剩下的 &amp;quot;像动词&amp;quot; 的动词为非谓语。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;谓语动词&lt;/th&gt;
+&lt;th&gt;非谓语动词&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;句子的核心&lt;/td&gt;
+&lt;td&gt;句子中非核心部分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;注意：两个简单句不能用 “，” 连接。&lt;/p&gt;
+&lt;p&gt;如句子&lt;s class=&#34;danger&#34;&gt; I am a rabbit, I eat carrots.&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;要么写成：I am a rabbit, so I eat carrots. (改成并列句，用连词连接)&lt;/p&gt;
+&lt;p&gt;要么把它变为一个从句一个主句：Because I am a rabbit, I eat carrots.&lt;/p&gt;
+&lt;h2 id=&#34;非谓语动词-不定式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#非谓语动词-不定式&#34;&gt;#&lt;/a&gt; 非谓语动词 - 不定式&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不定式 (Infinitive) 是无限的意思，即不受限制&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;通常不定式的结构为：to + 动词原形&lt;/p&gt;
+&lt;p&gt;如： To be or not to be, that is the question. 生存还是毁灭，这是一个问题。&lt;/p&gt;
+&lt;p&gt;to 有时可以省略，如 You helped me cook the carrot. 你帮我烧了胡萝卜。&lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;这句话中 helped 是谓语动词，cook 是不定式，只不过省略了 to.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一个动词作为谓语动词，只能在句子中充当核心的谓语动词，而不能充当其他成分。如果想充当其他成分，只能将其转化为非谓语动词（不定式、过去分词、现在分词、动名词之一）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;不定式作主语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定式作主语&#34;&gt;#&lt;/a&gt; 不定式作主语&lt;/h3&gt;
+&lt;p&gt;&lt;ins&gt;To eat&lt;/ins&gt; a carrot every day &lt;mark&gt;is&lt;/mark&gt; good for the rabbit.&lt;/p&gt;
+&lt;p&gt;在这个句子中，to eat 是动词不定式充当句子主语，表示一天吃一个胡萝卜这个行为，没有具体时间状态，所以是不定式。&lt;/p&gt;
+&lt;p&gt;将 to eat a carrot every day 放到谓语动词之后，句子就变成了：&lt;/p&gt;
+&lt;p&gt;It is good for the rabbit to eat a carrot every day.&lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;（句子形式为 It is + adj + for sb. + to do sth.）&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;to eat 不定式为真正的主语，为避免头重脚轻，将 it 作形式主语放在句首。&lt;/p&gt;
+&lt;h3 id=&#34;不定式作宾语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定式作宾语&#34;&gt;#&lt;/a&gt; 不定式作宾语&lt;/h3&gt;
+&lt;p&gt;The rabbit &lt;mark&gt;likes&lt;/mark&gt; &lt;ins&gt;to eat&lt;/ins&gt; carrot.&lt;/p&gt;
+&lt;p&gt;句子中 to eat 做了谓语动词 likes 的宾语&lt;/p&gt;
+&lt;p&gt;注意：有些谓语动词不能接不定式作宾语&lt;/p&gt;
+&lt;p&gt;可以用 “it” 作形式宾语吗？&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;可以： 如 I consider it important to eat a carrot every day. (我认为每天吃一个胡萝卜很重要)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;不定式作宾语补语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定式作宾语补语&#34;&gt;#&lt;/a&gt; 不定式作宾语补语&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;不定式可以与复杂及物动词一起使用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The rabbit &lt;mark&gt;expected&lt;/mark&gt; the wolf &lt;ins&gt;to eat&lt;/ins&gt; a carrot. 兔子希望狼能吃根胡萝卜&lt;/p&gt;
+&lt;p&gt;注意：像 see、find、watch、have、make、let 这类” 使役 “动词用不定式作宾补要省略 to，如：Carrots make the rabbit feel happy.&lt;/p&gt;
+&lt;h3 id=&#34;不定式作主语补语表语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定式作主语补语表语&#34;&gt;#&lt;/a&gt; 不定式作主语补语（表语）&lt;/h3&gt;
+&lt;p&gt;The rabbit&#39;s dream &lt;mark&gt;is&lt;/mark&gt; &lt;ins&gt;to eat&lt;/ins&gt; every kind of carrot in the world. (主系表结构)&lt;/p&gt;
+&lt;h3 id=&#34;不定式作定语&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定式作定语&#34;&gt;#&lt;/a&gt; 不定式作定语&lt;/h3&gt;
+&lt;p&gt;The rabbit has a lot of carrots to eat. 兔子有很多胡萝卜要吃&lt;/p&gt;
+&lt;h3 id=&#34;不定式作状语表达原因-目的-结果&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#不定式作状语表达原因-目的-结果&#34;&gt;#&lt;/a&gt; 不定式作状语表达原因、目的、结果&lt;/h3&gt;
+&lt;h4 id=&#34;表原因&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#表原因&#34;&gt;#&lt;/a&gt; 表原因&lt;/h4&gt;
+&lt;p&gt;I was surprised to get a thumbs-up. 我很吃惊因为得到了一个赞👍&lt;/p&gt;
+&lt;p&gt;to get 不定式作原因状语&lt;/p&gt;
+&lt;p&gt;相当于 I was surprised because I got a thumbs-up.&lt;/p&gt;
+&lt;h4 id=&#34;表目的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#表目的&#34;&gt;#&lt;/a&gt; 表目的&lt;/h4&gt;
+&lt;p&gt;I will do anything to get a thumbs-up. 为了得到一个赞，我愿意做任何事&lt;/p&gt;
+&lt;p&gt;to get 不定式作目的状语&lt;/p&gt;
+&lt;p&gt;相当于 I will do anything in order that I get a thumbs-up.&lt;/p&gt;
+&lt;h4 id=&#34;表结果&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#表结果&#34;&gt;#&lt;/a&gt; 表结果&lt;/h4&gt;
+&lt;p&gt;I got enough thumbs-up to make another video. 我得到足够的赞去做另一个视频啦&lt;/p&gt;
+&lt;p&gt;to make 不定式作结果状语&lt;/p&gt;
+&lt;p&gt;相当于 I got enough thumbs-up, so that I made another video.&lt;/p&gt;
+&lt;h3 id=&#34;高级不定式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高级不定式&#34;&gt;#&lt;/a&gt; 高级不定式&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;to + 动词原形（添加状态）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;to be eating a carrot&lt;/li&gt;
+&lt;li&gt;to have eaten a carrot&lt;/li&gt;
+&lt;li&gt;to have been eating a carrot&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;例句：&lt;/p&gt;
+&lt;p&gt;The rabbit seemed to be eating a carrot.&lt;/p&gt;
+&lt;p&gt;兔子之前似乎正在吃胡萝卜（的过程中）&lt;/p&gt;
+&lt;p&gt;The rabbit will appear to have eaten a carrot.&lt;/p&gt;
+&lt;p&gt;这兔子之后会看起来像是吃过一根胡萝卜&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://crpdim.github.io/english/Mood/</guid>
             <title>动词语气(Mood)</title>
-            <link>https://crpdim.github.io/english/pyqt5_m1/</link>
+            <link>https://crpdim.github.io/english/Mood/</link>
             <category term="英语学习" scheme="https://crpdim.github.io/categories/english/" />
             <category term="英语语法" scheme="https://crpdim.github.io/tags/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/" />
             <pubDate>Tue, 11 Apr 2023 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;语气&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#语气&#34;&gt;#&lt;/a&gt; 语气&lt;/h1&gt;
+&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;英语兔&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhZNDExSjdhRw==&#34; data-background-image=&#34;https://media.yingyutu.com/huanying.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVhZNDExSjdhRw==&#34;&gt;英语兔&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;笔记于英语兔语法学习专栏&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
 &lt;h1 id=&#34;动词语气mood&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#动词语气mood&#34;&gt;#&lt;/a&gt; 动词语气（Mood）&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;动词语气 &lt;strong&gt;≠&lt;/strong&gt; 说话语气 &lt;span class=&#34;spoiler&#34; title=&#34;好奇心害死猫&#34;&gt;温柔的、凶狠的……&lt;/span&gt;&lt;/p&gt;
